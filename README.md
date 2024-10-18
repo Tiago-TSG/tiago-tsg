@@ -34,7 +34,7 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
-   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="width: 48px; height: 48px;" />
