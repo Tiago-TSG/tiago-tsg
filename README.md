@@ -118,7 +118,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 🔹 Windows XP - (MCP)
 
-## Main Projects In The Technology Area
+## Main Projects In The Technology Area 📢
 
 🔹 Creation of pipelines for continuous delivery and deployment (CI/CD) of applications for development teams.
 
