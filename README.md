@@ -31,9 +31,11 @@ Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Dev
 ## Stack (SRE | Devops)
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="max-width: 10%;" />
+
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="max-width: 10%;" />
 </div>
 
 🔹 Terraform
