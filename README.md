@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     
 Hello, I am passionate about Information Technology, with over 18 years of experience working in the provisioning and management of IT infrastructure. Currently, my focus is on the areas of Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering and Cloud Engineering.
 
-## My GitHub Stats 📈
+## My GitHub Stats 💹
 
 <table>
   <tr>
