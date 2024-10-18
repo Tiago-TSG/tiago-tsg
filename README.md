@@ -44,7 +44,9 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/azure.png" alt="Azure" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="max-width: 10%;" />
   
 </div>
 
