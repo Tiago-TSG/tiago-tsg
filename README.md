@@ -42,7 +42,6 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="width: 48px; height: 48px;" />
@@ -53,7 +52,6 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px;" />
   <img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 40px; height: 40px;" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 40px; height: 40px;" />
-  <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 40px; height: 40px;" />
  
 </div>
 
