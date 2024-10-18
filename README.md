@@ -49,7 +49,7 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="max-width: 10%;" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/helm.png" alt="Helm" style="width: 48px; height: 48px;" />
+  <img src="https://raw.githubusercontent.com/helm/helm/main/assets/images/helm-logo.png" alt="Helm" style="width: 48px; height: 48px;" />
  
 </div>
 
