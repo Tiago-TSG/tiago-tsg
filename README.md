@@ -39,7 +39,7 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="YAML" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/actions.png" alt="GitHub Actions" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="max-width: 10%;" />
 </div>
 
 🔹 Terraform
