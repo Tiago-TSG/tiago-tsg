@@ -142,7 +142,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 🔹 Participation in datacenter migration project.
 
-## ⚠️ Contacts
+## Contacts ⚠️
   You can find me on:
 
   <div>
