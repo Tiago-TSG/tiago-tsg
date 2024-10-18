@@ -81,12 +81,17 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 🔹 Elastic Stack
 🔹 New Relic
 
+
+<!--
+
 ## Projetos
 - [Projeto 1](https://github.com/seu-usuario/projeto1): Descrição do projeto.
 - [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição do projeto.
 - [Projeto 3](https://github.com/seu-usuario/projeto3): Descrição do projeto.
 
-## Possuo as seguintes certificações profissionais:
+-->
+
+## Certificações Profissionais:
 
 - Certified Kubernetes Administrator - (CKA)
 - Kubernetes Fundamentals - (THE LINUX FOUNDATION)
@@ -98,7 +103,7 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 - Windows XP - (MCDST)
 - Windows XP - (MCP)
 
-## Além disso, participei de vários projetos na área de tecnologia, dos quais destaco:
+## Principais Projetos na área de Tecnologia
 
 - Criação de pipelines para automação, entrega e deploy contínuos, para equipes de desenvolvimento.
 - Construção de módulos com o Terraform, para o provisionamento de infraestrutura (IaC).
