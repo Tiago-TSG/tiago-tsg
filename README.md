@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Sobre mim
     Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais de 18 anos atuando no provisionamento e gerência de infraestrutura de TI. 
-    Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering e Cloud Engineering.
+Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering e Cloud Engineering.
 
 # Minhas Estatísticas no GitHub
 
