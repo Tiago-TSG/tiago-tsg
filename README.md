@@ -40,14 +40,13 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab" style="max-width: 10%;" />
 </div>
 
 🔹 Terraform
 🔹 Ansible
 🔹 Bitbucket 
 🔹 GitHub
-🔹 GitHub
-🔹 Actions
 🔹 Gitlab
 🔹 Drone CI 
 🔹 Jira
