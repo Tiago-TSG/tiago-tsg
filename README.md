@@ -103,13 +103,20 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 🔹Certified Kubernetes Administrator - (CKA)
 
 🔹Kubernetes Fundamentals - (THE LINUX FOUNDATION)
-- GitOps Fundamentals - Argo CD - (CODEFRESH)
-- Exchange Server 2007 - (MCTS)
-- Windows Server 2003 - (MCSA)
-- Windows Vista - (MCITP)
-- Windows Vista - (MCTS)
-- Windows XP - (MCDST)
-- Windows XP - (MCP)
+
+🔹 GitOps Fundamentals - Argo CD - (CODEFRESH)
+
+🔹 Exchange Server 2007 - (MCTS)
+
+🔹 Windows Server 2003 - (MCSA)
+
+🔹 Windows Vista - (MCITP)
+
+🔹 Windows Vista - (MCTS)
+
+🔹 Windows XP - (MCDST)
+
+🔹 Windows XP - (MCP)
 
 ## Main Projects in the Technology area
 
