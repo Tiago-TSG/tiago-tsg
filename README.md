@@ -41,9 +41,8 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="max-width: 10%;" /> 
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="max-width: 10%;" />
@@ -58,13 +57,13 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 🔹 Kubernetes
 🔹 Shell Script
 🔹 Python
-🔹 Bitbucket 
 🔹 GitHub
 🔹 Gitlab
+🔹 Bitbucket 
 🔹 Drone CI
 🔹 AWS
-🔹 GCP
 🔹 Azure
+🔹 GCP
 🔹 Jira
 🔹 Confluence
 🔹 ArgoCD 
