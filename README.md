@@ -46,8 +46,8 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="width: 45px; height: 45px;" />
+  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 45px; height: 45px;" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px;" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px;" />
