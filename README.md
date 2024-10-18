@@ -86,8 +86,6 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 43px; height: 43px;" />
 </div>
 
-<br/>
-
 <!--
 
 ## Projects
