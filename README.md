@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub! (Under Construction) 🚧
 
-## About Me
+## About Me 💻
     
 Hello, I am passionate about Information Technology, with over 18 years of experience working in the provisioning and management of IT infrastructure. Currently, my focus is on the areas of Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering and Cloud Engineering.
 
