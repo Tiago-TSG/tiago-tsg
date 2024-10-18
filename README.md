@@ -126,5 +126,5 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   You can find me on:
 
   <div>
-    <a href= "https://www.linkedin.com/in/tiagotsg/"> <img="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")><a/>
+    <a href="https://www.linkedin.com/in/tiagotsg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")><a/>
   div>
