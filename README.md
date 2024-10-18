@@ -66,16 +66,16 @@ Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Dev
 
 ## Além disso, participei de vários projetos na área de tecnologia, dos quais destaco:
 
-🔹Criação de pipelines para automação, entrega e deploy contínuos, para equipes de desenvolvimento.
-🔹Construção de módulos com o Terraform, para o provisionamento de infraestrutura (IaC).
-🔹Gestão de equipe, como a utilização de metodologias ágeis (Jira com Kanban).
-🔹Provisionamento de serviço de correio eletrônico com "Qmail", para comercialização.
-🔹Provisionamento de serviço de monitoramento de tráfego de rede através do protocolo "SNMP" (Cacti).
-🔹Implantação de certificados públicos (Certsign) para usuários de correio eletrônico.
-🔹Implantação de unidade certificadora interna (CA), através do serviço "ADCS" da Microsoft.
-🔹Implantação e gerência de acesso remoto de usuários através de VPN (site-to-site e client-to-site).
-🔹Migração de infraestrutura de correio eletrônico Lotus Notes para Exchange 2010.
-🔹Migração de Datacenter.
+- Criação de pipelines para automação, entrega e deploy contínuos, para equipes de desenvolvimento.
+- Construção de módulos com o Terraform, para o provisionamento de infraestrutura (IaC).
+- Gestão de equipe, como a utilização de metodologias ágeis (Jira com Kanban).
+- Provisionamento de serviço de correio eletrônico com "Qmail", para comercialização.
+- Provisionamento de serviço de monitoramento de tráfego de rede através do protocolo "SNMP" (Cacti).
+- Implantação de certificados públicos (Certsign) para usuários de correio eletrônico.
+- Implantação de unidade certificadora interna (CA), através do serviço "ADCS" da Microsoft.
+- Implantação e gerência de acesso remoto de usuários através de VPN (site-to-site e client-to-site).
+- Migração de infraestrutura de correio eletrônico Lotus Notes para Exchange 2010.
+- Migração de Datacenter.
 
 ## Contato
 Você pode me encontrar em:
