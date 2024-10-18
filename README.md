@@ -36,18 +36,18 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
    <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="max-width: 10%;" /> 
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="max-width: style="width: 48px; height: 48px;" />
+  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 48px; height: 48px;" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px;" />
   <img src="https://raw.githubusercontent.com/helm/helm/main/assets/images/helm-logo.png" alt="Helm" style="width: 48px; height: 48px;" />
  
