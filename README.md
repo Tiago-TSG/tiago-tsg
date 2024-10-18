@@ -23,9 +23,10 @@ Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Dev
 
 # Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=radical" alt="Top Languages" style="max-width: 45%;" />
+</div>
 
 ## Stack (SRE | Devops)
 
