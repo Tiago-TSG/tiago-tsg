@@ -118,19 +118,29 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 🔹 Windows XP - (MCP)
 
-## Main Projects in the Technology area
+## Main Projects In The Technology Area
 
-- Creation of pipelines for continuous delivery and deployment (CI/CD) of applications for development teams.
-- Construction of modules with Terraform, for infrastructure provisioning (IaC).
-- Team management, such as the use of agile methodologies (Jira with Kanban).
-- Email service migration from the Google Workspace platform to the Office 365 platform.
-- Implementation of public certificates (Certsign) for email users.
-- Implementation of an internal certification unit (CA), through Microsoft's "ADCS" service.
-- Implementation and management of remote user access through VPN (site-to-site and client-to-site), with IPSEC.
-- Migration of Lotus Notes electronic mail infrastructure to Exchange 2010.
-- Provision of an electronic mail service platform with "Qmail", for selling the service.
-- Provision of network traffic monitoring service through the "SNMP" protocol (Cacti).
-- Participation in datacenter migration project.
+🔹 Creation of pipelines for continuous delivery and deployment (CI/CD) of applications for development teams.
+
+🔹 Construction of modules with Terraform, for infrastructure provisioning (IaC).
+
+🔹 Team management, such as the use of agile methodologies (Jira with Kanban).
+
+🔹 Email service migration from the Google Workspace platform to the Office 365 platform.
+
+🔹 Implementation of public certificates (Certsign) for email users.
+
+🔹 Implementation of an internal certification unit (CA), through Microsoft's "ADCS" service.
+
+🔹 Implementation and management of remote user access through VPN (site-to-site and client-to-site), with IPSEC.
+
+🔹 Migration of Lotus Notes electronic mail infrastructure to Exchange 2010.
+
+🔹 Provision of an electronic mail service platform with "Qmail", for selling the service.
+
+🔹 Provision of network traffic monitoring service through the "SNMP" protocol (Cacti).
+
+🔹 Participation in datacenter migration project.
 
 ## Contacts
   You can find me on:
