@@ -118,5 +118,5 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 - Participation in datacenter migration project.
 
 ## Contacts
-  You can find me at:
+  You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/tiagotsg/)
