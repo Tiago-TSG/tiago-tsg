@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub! (UNDER CONSTRUCTION) 🚧
+# Welcome to my GitHub! (Under Construction) 🚧
 
 ## About me
     
