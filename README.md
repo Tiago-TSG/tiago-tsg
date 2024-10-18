@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bem-vindo ao meu GitHub! (EM CONSTRUÇÃO) 🚧
+# Welcome to my GitHub! (UNDER CONSTRUCTION) 🚧
 
-## Sobre mim
+## About me
     
-Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais de 18 anos atuando no provisionamento e gerência de infraestrutura de TI. Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering e Cloud Engineering.
+Hello, I am passionate about Information Technology, with over 18 years of experience working in the provisioning and management of IT infrastructure. Currently, my focus is on the areas of Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering and Cloud Engineering.
 
-# Minhas Estatísticas no GitHub
+# My GitHub Stats
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
   <a href="https://github.com/Tiago-TSG">
@@ -84,14 +84,14 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 
 <!--
 
-## Projetos
+## Projects
 - [Projeto 1](https://github.com/seu-usuario/projeto1): Descrição do projeto.
 - [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição do projeto.
 - [Projeto 3](https://github.com/seu-usuario/projeto3): Descrição do projeto.
 
 -->
 
-## Certificações Profissionais:
+## Professional certifications:
 
 - Certified Kubernetes Administrator - (CKA)
 - Kubernetes Fundamentals - (THE LINUX FOUNDATION)
@@ -103,7 +103,7 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 - Windows XP - (MCDST)
 - Windows XP - (MCP)
 
-## Principais Projetos na área de Tecnologia
+## Main Projects in the Technology area
 
 - Criação de pipelines para automação, entrega e deploy contínuos, para equipes de desenvolvimento.
 - Construção de módulos com o Terraform, para o provisionamento de infraestrutura (IaC).
