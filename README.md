@@ -23,9 +23,6 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 # My GitHub Stats
 
-
-# Minhas Estatísticas no GitHub
-
 <table>
   <tr>
     <td>
