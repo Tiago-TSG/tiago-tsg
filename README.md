@@ -91,7 +91,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 -->
 
-## Professional certifications:
+## Professional certifications
 
 - Certified Kubernetes Administrator - (CKA)
 - Kubernetes Fundamentals - (THE LINUX FOUNDATION)
