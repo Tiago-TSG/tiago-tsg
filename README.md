@@ -29,7 +29,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   <tr>
     <td>
       <a href="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </a>
     </td>
     <td>
