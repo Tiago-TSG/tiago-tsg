@@ -36,7 +36,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   </tr>
 </table>
 
-## Stack (SRE | Devops)
+## Stack (SRE | Devops) 🧰
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
 
