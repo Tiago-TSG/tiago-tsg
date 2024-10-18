@@ -54,25 +54,25 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 
 🔹 Terraform
 🔹 Ansible
+🔹 Docker
+🔹 Kubernetes
+🔹 Python
+🔹 Shell Script
 🔹 Bitbucket 
 🔹 GitHub
 🔹 Gitlab
-🔹 Drone CI 
+🔹 Drone CI
+🔹 AWS
+🔹 GCP
+🔹 Azure
 🔹 Jira
 🔹 Confluence
-🔹 Docker
-🔹 Kubernetes
 🔹 ArgoCD 
 🔹 Helm
 🔹 Vault
 🔹 Git
-🔹 AWS
-🔹 GCP
-🔹 Azure
 🔹 Elastic Stack
 🔹 New Relic
-🔹 Python
-🔹 Shell Script
 
 ## Projetos
 - [Projeto 1](https://github.com/seu-usuario/projeto1): Descrição do projeto.
