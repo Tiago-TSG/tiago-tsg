@@ -54,9 +54,6 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 48px; height: 48px;" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 48px; height: 48px;" />
   <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 48px; height: 48px;" />
-</div>
-
-
  
 </div>
 
