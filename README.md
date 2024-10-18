@@ -31,7 +31,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## Stack (SRE | Devops)
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
 
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
