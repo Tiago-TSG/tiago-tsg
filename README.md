@@ -48,6 +48,7 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/fluency/48/000000/argo.png" alt="ArgoCD" style="max-width: 10%;" />
  
 </div>
 
