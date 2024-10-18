@@ -51,8 +51,8 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/argo.png" alt="Argo CD" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/elastic-stack.png" alt="Stack ELK" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/new-relic.png" alt="New Relic" style="max-width: 
-  
+  <img src="https://img.icons8.com/color/48/000000/new-relic.png" alt="New Relic" style="max-width: 10%;" />
+ 
 </div>
 
 🔹 Terraform
