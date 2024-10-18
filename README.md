@@ -50,8 +50,8 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px;" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px;" />
-  <img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 40px; height: 40px;" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 48px; height: 48px;" />
+  <img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 45px; height: 45px;" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 45px; height: 45px;" />
  
 </div>
 
