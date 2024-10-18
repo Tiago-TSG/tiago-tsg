@@ -51,9 +51,10 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px;" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px;" />
-  <img src="https://raw.githubusercontent.com/hashicorp/vault/main/website/static/img/vault-128.png" alt="Vault" style="width: 48px; height: 48px;" />
-  <img src="https://raw.githubusercontent.com/elastic/stack-docs/main/docs/en/stack/images/logo-elastic-stack.png" alt="Elastic Stack" style="width: 48px; height: 48px;" />
-  <img src="https://raw.githubusercontent.com/newrelic/opensource-website/master/src/images/logo-newrelic.png" alt="New Relic" style="width: 48px; height: 48px;" />
+  <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" alt="Vault" style="width: 48px; height: 48px;" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 48px; height: 48px;" />
+  <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 48px; height: 48px;" />
+</div>
 
 
  
