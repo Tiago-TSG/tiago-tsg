@@ -101,6 +101,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 ## Professional Certifications
 
 🔹Certified Kubernetes Administrator - (CKA)
+
 🔹Kubernetes Fundamentals - (THE LINUX FOUNDATION)
 - GitOps Fundamentals - Argo CD - (CODEFRESH)
 - Exchange Server 2007 - (MCTS)
