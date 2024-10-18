@@ -54,15 +54,15 @@ Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Dev
 
 ## Possuo as seguintes certificações profissionais:
 
-🔹Certified Kubernetes Administrator - (CKA)
-🔹Kubernetes Fundamentals - (THE LINUX FOUNDATION)
-🔹GitOps Fundamentals - Argo CD - (CODEFRESH)
-🔹Exchange Server 2007 - (MCTS)
-🔹Windows Server 2003 - (MCSA)
-🔹Windows Vista - (MCITP)
-🔹Windows Vista - (MCTS)
-🔹Windows XP - (MCDST)
-🔹Windows XP - (MCP)
+- Certified Kubernetes Administrator - (CKA)
+- Kubernetes Fundamentals - (THE LINUX FOUNDATION)
+- GitOps Fundamentals - Argo CD - (CODEFRESH)
+- Exchange Server 2007 - (MCTS)
+- Windows Server 2003 - (MCSA)
+- Windows Vista - (MCITP)
+- Windows Vista - (MCTS)
+- Windows XP - (MCDST)
+- Windows XP - (MCP)
 
 ## Além disso, participei de vários projetos na área de tecnologia, dos quais destaco:
 
