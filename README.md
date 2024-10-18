@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bem-vindo ao meu GitHub! (EM CONSTRUÇÃO)
+# Bem-vindo ao meu GitHub! (EM CONSTRUÇÃO) 🚧
 
 ## Sobre mim
 Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais de 18 anos atuando no provisionamento e gerência de infraestrutura de TI. 
