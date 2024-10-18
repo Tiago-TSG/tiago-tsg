@@ -35,7 +35,7 @@ Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Dev
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="max-width: 10%;" />
-  <img src="https://img.icons8.com/color/48/000000/yaml.png" alt="YAML" style="max-width: 10%;" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="YAML" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="max-width: 10%;" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="max-width: 10%;" />
 </div>
