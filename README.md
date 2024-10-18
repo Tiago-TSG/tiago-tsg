@@ -59,6 +59,8 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
  
 </div>
 
+<br/>
+
 🔹 Terraform
 🔹 Ansible
 🔹 Docker
