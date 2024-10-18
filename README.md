@@ -127,4 +127,4 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
   <div>
     <a href="https://www.linkedin.com/in/tiagotsg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")><a/>
-  div>
+  </div>
