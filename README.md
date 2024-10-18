@@ -15,20 +15,68 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub! (EM CONSTRUÇÃO)
 
 ## Sobre mim
-Olá, sou um analista SRE/Devops apaixonado por tecnologia e inovação. Aqui você encontrará alguns dos meus projetos favoritos.
+Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais de 18 anos atuando no provisionamento e gerência de infraestrutura de TI. 
+Atualmente, meu foco está nas áreas de Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering e Cloud Engineering.
+
+## Stack (SRE | Devops)
+
+🔹 Terraform
+🔹 Ansible
+🔹 Bitbucket 
+🔹 GitHub
+🔹 GitHub
+🔹 Actions
+🔹 Gitlab
+🔹 Drone CI 
+🔹 Jira
+🔹 Confluence
+🔹 Docker
+🔹 Kubernetes
+🔹 ArgoCD 
+🔹 Helm
+🔹 Vault
+🔹 Git
+🔹 AWS
+🔹 GCP
+🔹 Azure
+🔹 Elastic Stack
+🔹 New Relic
+🔹 Python
+🔹 Shell Script
 
 ## Projetos
 - [Projeto 1](https://github.com/seu-usuario/projeto1): Descrição do projeto.
 - [Projeto 2](https://github.com/seu-usuario/projeto2): Descrição do projeto.
 - [Projeto 3](https://github.com/seu-usuario/projeto3): Descrição do projeto.
 
+## Possuo as seguintes certificações profissionais:
+
+🔹Certified Kubernetes Administrator - (CKA)
+🔹Kubernetes Fundamentals - (THE LINUX FOUNDATION)
+🔹GitOps Fundamentals - Argo CD - (CODEFRESH)
+🔹Exchange Server 2007 - (MCTS)
+🔹Windows Server 2003 - (MCSA)
+🔹Windows Vista - (MCITP)
+🔹Windows Vista - (MCTS)
+🔹Windows XP - (MCDST)
+🔹Windows XP - (MCP)
+
+## Além disso, participei de vários projetos na área de tecnologia, dos quais destaco:
+
+🔹Criação de pipelines para automação, entrega e deploy contínuos, para equipes de desenvolvimento.
+🔹Construção de módulos com o Terraform, para o provisionamento de infraestrutura (IaC).
+🔹Gestão de equipe, como a utilização de metodologias ágeis (Jira com Kanban).
+🔹Provisionamento de serviço de correio eletrônico com "Qmail", para comercialização.
+🔹Provisionamento de serviço de monitoramento de tráfego de rede através do protocolo "SNMP" (Cacti).
+🔹Implantação de certificados públicos (Certsign) para usuários de correio eletrônico.
+🔹Implantação de unidade certificadora interna (CA), através do serviço "ADCS" da Microsoft.
+🔹Implantação e gerência de acesso remoto de usuários através de VPN (site-to-site e client-to-site).
+🔹Migração de infraestrutura de correio eletrônico Lotus Notes para Exchange 2010.
+🔹Migração de Datacenter.
+
 ## Contato
 Você pode me encontrar em:
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- [Twitter](https://twitter.com/seu-usuario)
-
-## Blog
-Confira meus artigos em [meu blog](https://seu-blog.com).
+- [LinkedIn](https://www.linkedin.com/in/tiagotsg/)
