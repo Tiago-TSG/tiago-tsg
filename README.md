@@ -105,17 +105,18 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## Main Projects in the Technology area
 
-- Criação de pipelines para automação, entrega e deploy contínuos, para equipes de desenvolvimento.
-- Construção de módulos com o Terraform, para o provisionamento de infraestrutura (IaC).
-- Gestão de equipe, como a utilização de metodologias ágeis (Jira com Kanban).
-- Provisionamento de serviço de correio eletrônico com "Qmail", para comercialização.
-- Provisionamento de serviço de monitoramento de tráfego de rede através do protocolo "SNMP" (Cacti).
-- Implantação de certificados públicos (Certsign) para usuários de correio eletrônico.
-- Implantação de unidade certificadora interna (CA), através do serviço "ADCS" da Microsoft.
-- Implantação e gerência de acesso remoto de usuários através de VPN (site-to-site e client-to-site).
-- Migração de infraestrutura de correio eletrônico Lotus Notes para Exchange 2010.
-- Migração de Datacenter.
+- Creation of pipelines for continuous delivery and deployment (CI/CD) of applications for development teams.
+- Construction of modules with Terraform, for infrastructure provisioning (IaC).
+- Team management, such as the use of agile methodologies (Jira with Kanban).
+- Email service migration from the Google Workspace platform to the Office 365 platform.
+- Implementation of public certificates (Certsign) for email users.
+- Implementation of an internal certification unit (CA), through Microsoft's "ADCS" service.
+- Implementation and management of remote user access through VPN (site-to-site and client-to-site), with IPSEC.
+- Migration of Lotus Notes electronic mail infrastructure to Exchange 2010.
+- Provision of an electronic mail service platform with "Qmail", for selling the service.
+- Provision of network traffic monitoring service through the "SNMP" protocol (Cacti).
+- Participation in datacenter migration project.
 
-## Contato
-Você pode me encontrar em:
+## Contacts
+  You can find me at:
 - [LinkedIn](https://www.linkedin.com/in/tiagotsg/)
