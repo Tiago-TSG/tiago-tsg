@@ -56,8 +56,8 @@ Olá, sou um apaixonado por Tecnologia da Informação, com experiência de mais
 🔹 Ansible
 🔹 Docker
 🔹 Kubernetes
-🔹 Python
 🔹 Shell Script
+🔹 Python
 🔹 Bitbucket 
 🔹 GitHub
 🔹 Gitlab
