@@ -124,4 +124,5 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## Contacts
   You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/tiagotsg/)
+  
+- [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
