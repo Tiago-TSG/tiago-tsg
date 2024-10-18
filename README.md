@@ -21,14 +21,15 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## My GitHub Stats
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/Tiago-TSG" style="display: inline-block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/Tiago-TSG">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 20px;" />
   </a>
-  <a href="https://github.com/Tiago-TSG" style="display: inline-block;">
+  <a href="https://github.com/Tiago-TSG">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=radical" alt="Top Languages" />
   </a>
-</div>
+</p>
+
 
 ## Stack (SRE | Devops)
 
