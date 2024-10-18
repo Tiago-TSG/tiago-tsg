@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub! (Under Construction) 🚧
+# Welcome to my GitHub!
 
 <div>
     <img src="./img/imagem_de_fundo_do_github.jpeg" />
