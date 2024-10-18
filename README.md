@@ -21,7 +21,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## My GitHub Stats
 
-<div style="display: inline-flex; justify-content: center; align-items: center; max-width: 100%;">
+<div style="display: inline-flex; justify-content: center; align-items: center; max-width: 200%;">
     <img src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" style="display: block;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=radical" alt="Top Languages" height="180em" style="display: block;" />
 </div>
