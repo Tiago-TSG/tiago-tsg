@@ -23,6 +23,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## My GitHub Stats 💹
 
+<!--
 <table>
   <tr>
     <td>
@@ -37,6 +38,14 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
     </td>
   </tr>
 </table>
+-->
+
+<div align="center">
+  <a href="https://github.com/Tiago-TSG">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=dracula&langs_count=5" alt="Top Languages" />
+  <a/>
+</div>
 
 ## Stack (SRE | Devops) 🧰
 
