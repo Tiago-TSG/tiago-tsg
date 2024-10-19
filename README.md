@@ -72,7 +72,9 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 🔹 New Relic
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
+  <a href="https://www.terraform.io/">
+    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
+  </a>    
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px;" />
