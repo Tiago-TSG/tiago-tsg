@@ -40,7 +40,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 </table>
 -->
 
-<div align="center">
+<div align="center" style="text-decoration: none;>
   <a href="https://github.com/Tiago-TSG">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_issues=true&cache_seconds=60" alt="GitHub Stats" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=dracula&langs_count=5&count_private=true&cache_seconds=60" alt="Top Languages" />
@@ -71,7 +71,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 🔹 Elastic Stack
 🔹 New Relic
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around;">
+<div align="left">
   <a href="https://www.terraform.io/">
     <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
   </a>    
