@@ -54,28 +54,28 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 🔹 Elastic Stack
 🔹 New Relic
 
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="Gitlab" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket"style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="width: 45px; height: 45px;" />
-  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 45px; height: 45px;" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px;" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px;" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px;" />
-  <img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 40px; height: 40px;" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 43px; height: 43px;" />
-  <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 43px; height: 43px;" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://terraform.io"><img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://ansible.com"><img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://example.com/shellscript"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://python.org"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://github.com"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://gitlab.com"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://bitbucket.org"><img src="https://img.icons8.com/color/48/000000/bitbucket.png" alt="Bitbucket" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://drone.io"><img src="https://img.icons8.com/color/48/000000/drone.png" alt="Drone CI" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://aws.amazon.com"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://azure.microsoft.com"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://cloud.google.com"><img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://jira.com"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="width: 45px; height: 45px; text-decoration: none;" /></a>
+  <a href="https://confluence.com"><img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 45px; height: 45px; text-decoration: none;" /></a>
+  <a href="https://argoproj.github.io"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://helm.sh"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://vaultproject.io"><img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 40px; height: 40px; text-decoration: none;" /></a>
+  <a href="https://elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 43px; height: 43px; text-decoration: none;" /></a>
+  <a href="https://newrelic.com"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 43px; height: 43px; text-decoration: none;" /></a>
 </div>
 
 <!--
