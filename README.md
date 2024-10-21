@@ -23,23 +23,6 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## My GitHub Stats 🚀
 
-<!--
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Tiago-TSG">
-        <img height="300em" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Tiago-TSG">
-        <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=dracula&langs_count=5" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
--->
-
 <div align="center" style="text-decoration: none;>
   <a href="https://github.com/Tiago-TSG">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_issues=true&cache_seconds=60" alt="GitHub Stats" />
@@ -72,9 +55,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 🔹 New Relic
 
 <div align="left">
-  <a href="https://www.terraform.io/">
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
-  </a>    
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px;" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px;" />
