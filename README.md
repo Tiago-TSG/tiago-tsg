@@ -69,7 +69,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   <a href="https://azure.microsoft.com"><img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://cloud.google.com"><img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://jira.com"><img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" style="width: 45px; height: 45px; text-decoration: none;" /></a>
-  <a href="https://confluence.com"><img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 45px; height: 45px; text-decoration: none;" /></a>
+  <a href="https://www.atlassian.com/software/confluence"><img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" style="width: 45px; height: 45px; text-decoration: none;" /></a>
   <a href="https://argoproj.github.io"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://helm.sh"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px; text-decoration: none;" /></a>
