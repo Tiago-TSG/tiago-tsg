@@ -59,7 +59,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   <a href="https://ansible.com"><img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://kubernetes.io"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" style="width: 48px; height: 48px; text-decoration: none;" /></a>
-  <a href="https://example.com/shellscript"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="width: 48px; height: 48px; text-decoration: none;" /></a>
+  <a href="https://www.shellscript.sh/"><img src="https://img.icons8.com/color/48/000000/console.png" alt="Shell Script" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://python.org"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://github.com"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://gitlab.com"><img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" style="width: 48px; height: 48px; text-decoration: none;" /></a>
