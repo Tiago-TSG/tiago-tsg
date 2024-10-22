@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 Hello, I am passionate about Information Technology, with over 18 years of experience working in the provisioning and management of IT infrastructure. Currently, my focus is on the areas of Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering and Cloud Engineering.
 
 
+
+
 ## My GitHub Stats 🚀
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Tiago-TSG" style="text-decoration: none; border: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_issues=true&cache_seconds=60" style="height:150;" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=dracula&langs_count=5&count_private=true&cache_seconds=60" style="height:150;" alt="Top Languages" />
   </a>
 </div>
+
+
 
 
 ## Stack (SRE | Devops) 🧰
