@@ -23,10 +23,10 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## My GitHub Stats 🚀
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/Tiago-TSG" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_issues=true&cache_seconds=60" style="width: 200; height: 150; text-decoration: none;" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=dracula&langs_count=5&count_private=true&cache_seconds=60" style="width: 200; height: 150; text-decoration: none;" alt="Top Languages" />
+<div align="left">
+  <a href="https://github.com/Tiago-TSG">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-tsg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&include_all_issues=true&cache_seconds=60" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-tsg&layout=compact&theme=dracula&langs_count=5&count_private=true&cache_seconds=60" alt="Top Languages" />
   </a>
 </div>
 
