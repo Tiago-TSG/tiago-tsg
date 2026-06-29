@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me 💻
     
-Hello, I am passionate about Information Technology, with over 18 years of experience working in the provisioning and management of IT infrastructure. Currently, my focus is on the areas of Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering and Cloud Engineering.
+Hello, I am passionate about Information Technology, with over 20 years of experience working in the provisioning and management of IT infrastructure. Currently, my focus is on the areas of Site Reliability Engineering (SRE), Devops Engineering, Platform Engineering and Cloud Engineering.
 
 ## My GitHub Stats 🚀
 
@@ -73,7 +73,7 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
   <a href="https://argoproj.github.io"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.png" alt="Argo CD" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://helm.sh"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" style="width: 48px; height: 48px; text-decoration: none;" /></a>
   <a href="https://git-scm.com"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px; text-decoration: none;" /></a>
-  <a href="https://vaultproject.io"><img src="https://raw.githubusercontent.com/hashicorp/vault/main/ui/public/vault-logo.svg" alt="Vault" style="width: 40px; height: 40px; text-decoration: none;" /></a>
+  <a href="https://vaultproject.io"><img src="https://www.datocms-assets.com/2885/1676497447-vault-favicon-color.png" alt="Vault" style="width: 40px; height: 40px; text-decoration: none;" /></a>
   <a href="https://elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic Stack" style="width: 43px; height: 43px; text-decoration: none;" /></a>
   <a href="https://newrelic.com"><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="New Relic" style="width: 43px; height: 43px; text-decoration: none;" /></a>
 </div>
@@ -89,11 +89,13 @@ Hello, I am passionate about Information Technology, with over 18 years of exper
 
 ## Professional Certifications 📋
 
-🔹Certified Kubernetes Administrator - (CKA)
+🔹 Certified Kubernetes Administrator - (CKA)
 
-🔹Kubernetes Fundamentals - (THE LINUX FOUNDATION)
+🔹 Kubernetes Fundamentals - (THE LINUX FOUNDATION)
 
 🔹 GitOps Fundamentals - Argo CD - (CODEFRESH)
+
+🔹 Certified Cloud Practitioner - (AWS)
 
 🔹 Exchange Server 2007 - (MCTS)
 
