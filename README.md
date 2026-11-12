@@ -102,6 +102,8 @@ Hello, I am passionate about Information Technology, with over 20 years of exper
 
 🔹 GitOps Fundamentals - Argo CD - (CODEFRESH)
 
+🔹 Certified Solutions Architect - Associate - (AWS)
+
 🔹 Certified Cloud Practitioner - (AWS)
 
 🔹 Exchange Server 2007 - (MCTS)
